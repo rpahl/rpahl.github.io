@@ -19,7 +19,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl:
+baseurl: "/blog"
 
 
 #
@@ -32,12 +32,12 @@ footer-links:
   email: roman.pahl@gmail.com
   facebook:
   flickr:
-  github: https://github.com/rpahl
-  instagram: https://www.instagram.com/solidasz
-  linkedin: https://www.linkedin.com/in/rpahl-936b7779/
+  github: rpahl
+  instagram: solidasz
+  linkedin: rpahl-936b7779
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/romanpahl
+  twitter: romanpahl
   stackoverflow: users/8120617/rpahl
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
