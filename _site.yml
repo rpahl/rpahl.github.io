@@ -1,0 +1,34 @@
+name: "Roman Pahl"
+output_dir: "."
+navbar:
+  title: "Roman Pahl"
+  left:
+    - text: "About"
+      icon: fa-user
+      href: about.html
+    - text: "Blog"
+      icon: fa-rss
+      href: https://rpahl.github.io/blog/
+    - text: "R-packages"
+      menu:
+      - icon: fa-archive
+        text: "container"
+        href: https://CRAN.R-project.org/package=container
+      - icon: fa-archive
+        text: "GroupSeq"
+        href: https://CRAN.R-project.org/package=GroupSeq
+  right:
+    - icon: fa-envelope-o
+      href: mailto:roman.pahl@gmail.com
+    - icon: fa-github
+      href: https://github.com/rpahl
+    - icon: fa-twitter
+      href: https://twitter.com/@romanpahl
+    - icon: fa-stack-overflow
+      href: https://stackoverflow.com/users/8120617/rpahl
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/rpahl-936b7779/
+output:
+  html_document:
+    theme: spacelab
+    highlight: tango
