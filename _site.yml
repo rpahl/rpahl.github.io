@@ -7,7 +7,7 @@ navbar:
       icon: fa-user
       href: about.html
     - text: "Blog"
-      icon: fa-rss
+      icon: fa-blog
       href: https://rpahl.github.io/r-some-blog/
     - text: "R-packages"
       menu:
