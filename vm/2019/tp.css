@@ -1,0 +1,92 @@
+body {
+	background-color : #FFFFFF;
+	font : 8pt Verdana, Arial, Helvetica, sans-serif;
+	color : #000000;
+	background-image : url();
+}
+
+table, tr, td {
+	font : 8pt Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	color : #000000;
+}
+
+H1{
+	font : bold 14pt Verdana, Arial, Helvetica, sans-serif;
+	color : #000000;
+	background-color : transparent;
+}
+
+H2{
+	font : bold 10pt Verdana, Arial, Helvetica, sans-serif;
+	color : #000000;
+	background-color : transparent;
+}
+
+#header { text-align: center; }
+#header h1 { margin: 0 0 4px 0; }
+#header p { margin: 0 0 0px 0; }
+#header table {
+	width: 700px;
+	margin: 0 auto 16px auto;
+	border-collapse: collapse;
+}
+#header img { float: right;}
+
+#oop { text-align: center; }
+#oop h1 { margin: 0 0 4px 0; }
+#oop table {
+	width: 700px;
+	margin: 0 auto 16px auto;
+	border-collapse: collapse;
+}
+#oop table caption,
+#oop table th {
+	text-align: left;
+	font-weight: bold;
+}
+#oop table caption,
+#oop table th.caption {
+	font-size: 12pt;
+	background: transparent;
+}
+#oop table th {
+	background: #F5F5F5;
+}
+#oop table caption,
+#oop table th.caption,
+#oop table td {
+	padding: 0 0 6px 0;
+	border-bottom: 1px solid #000;
+}
+#oop table th.caption {
+	padding: 10px 0 4px 0;
+}
+
+.borderb {
+	border-bottom : 1px solid Black;
+}
+
+.borderr {
+	border-right : 1px solid Black;
+}
+
+.borderbr {
+	border-bottom : 1px solid Black;
+	border-right: 1px solid Black;
+}
+
+.ronde {
+	background-color: Black;
+	font : bold 10pt Verdana, Arial, Helvetica, sans-serif;
+	color : #000000;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
